@@ -31,7 +31,11 @@
 ### Моя активность
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Commit Graph - Dark GitBlock" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg">
+    <img alt="3D Commit Graph" src="profile-3d-contrib/profile-green.svg">
+  </picture>
 </p>
 
 ###
