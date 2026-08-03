@@ -25,7 +25,13 @@
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quartz-code&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quartz-code&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quartz-code&layout=compact&theme=bear&hide_border=true" alt="Top Languages" />
 </p>
 
 ###
