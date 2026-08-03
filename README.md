@@ -28,22 +28,10 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=quartz-code&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
-
-###
-
 ### 🏙 Моя активность
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quartz-code&layout=compact&theme=bear&hide_border=true" alt="Top Languages" />
 </p>
 
 ###
