@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E83E8C&center=true&vCenter=true&width=500&lines=Mobile+%26+Backend+Developer;GameDev+Enthusiast;Data+Analysis+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">👨‍💻 quartz-code / developer </h1>
 
 ###
@@ -19,13 +25,13 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=quartz-code&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quartz-code&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quartz-code&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=quartz-code&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
