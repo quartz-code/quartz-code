@@ -34,6 +34,14 @@
 
 ###
 
+### 🏙 Моя активность
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Commit Graph" />
+</p>
+
+###
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quartz-code&layout=compact&theme=bear&hide_border=true" alt="Top Languages" />
 </p>
