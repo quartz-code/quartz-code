@@ -28,10 +28,10 @@
 
 ###
 
-### 🏙 Моя активность
+### Моя активность
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Commit Graph" />
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="3D Commit Graph - Dark GitBlock" />
 </p>
 
 ###
