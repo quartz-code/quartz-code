@@ -1,13 +1,11 @@
+<h1 align="center">👨‍💻 quartz-code / developer </h1>
+
+###
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E83E8C&center=true&vCenter=true&width=500&lines=Mobile+%26+Backend+Developer;GameDev+Enthusiast;Data+Analysis+Explorer" alt="Typing SVG" />
   </a>
 </p>
-
-<h1 align="center">👨‍💻 quartz-code / developer </h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
