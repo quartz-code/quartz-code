@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/profile-3d.json
+      - .github/workflows/profile-3d.yml
 
 jobs:
   build:
@@ -11,17 +17,22 @@ jobs:
     name: generate-github-profile-3d-contrib
     permissions:
       contents: write
-      
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      # only the images listed in .github/profile-3d.json are kept
+      - name: Remove previous images
+        run: rm -f profile-3d-contrib/*.svg
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated 3D contrib"
-          git push
+          if git commit -m "generated 3D contrib"; then
+            git push
+          fi
