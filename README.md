@@ -33,9 +33,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=quartz-code&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20GitHub&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&show=prs_merged&card_width=495&border_radius=14&bg_color=135,1c1132,120b22&title_color=ff6fae&icon_color=c084fc&text_color=d9d0ee&ring_color=ff6fae&border_color=2a2340">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=quartz-code&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20GitHub&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&show=prs_merged&card_width=495&border_radius=14&bg_color=135,fff7fb,f3ecff&title_color=d6336c&icon_color=8b5cf6&text_color=4f4566&ring_color=e83e8c&border_color=ebe1fa">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=quartz-code&locale=ru&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20GitHub&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs&show=prs_merged&card_width=495&border_radius=14&bg_color=135,fff7fb,f3ecff&title_color=d6336c&icon_color=8b5cf6&text_color=4f4566&ring_color=e83e8c&border_color=ebe1fa" alt="Статистика GitHub">
+    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/stats-light.svg">
+    <img width="49%" src="profile/stats-light.svg" alt="Статистика GitHub">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=quartz-code&locale=ru&border_radius=14&background=135,1C1132,120B22&border=2A2340&stroke=3A2F55&ring=FF6FAE&fire=FF6FAE&currStreakNum=FFFFFF&sideNums=FF8FC5&currStreakLabel=FF8FC5&sideLabels=D9D0EE&dates=9C93B5">
