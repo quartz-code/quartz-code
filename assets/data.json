@@ -1,14 +1,10 @@
 {
  "since": 2021,
- "year_total": 366,
+ "year_total": 369,
  "commits_year": 183,
  "prs_merged": 13,
  "streak_longest": 7,
  "weeks": [
-  {
-   "start": "2025-11-02",
-   "count": 2
-  },
   {
    "start": "2025-11-09",
    "count": 0
@@ -215,6 +211,10 @@
   },
   {
    "start": "2026-11-01",
+   "count": 3
+  },
+  {
+   "start": "2026-11-08",
    "count": 0
   }
  ]
